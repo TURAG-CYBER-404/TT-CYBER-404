@@ -28,7 +28,7 @@ Skills: PYTHON & HTML & JAVA
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TURAG-CYBER-404)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TT-CYBER-404)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TURAG-CYBER-404 )](https://github.com/anuraghazra/github-readme-stats)
 
@@ -36,7 +36,7 @@ Skills: PYTHON & HTML & JAVA
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TURAG AHAMED&layout=compact&theme=chartreuse-dark" />
 
-![Profile views](https://gpvc.arturio.dev/TURAG-CYBER-404 )  
+![Profile views](https://gpvc.arturio.dev/TT-CYBER-404 )  
 
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
 
@@ -48,7 +48,7 @@ Skills: PYTHON & HTML & JAVA
 
 <h2>MY SOCIAL MEDIA<h2/>
 
-<a href="https://fb.com/"turag.ahmed.9655 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="turag.ahmed.18" height="30" width="40" /></a>
+<a href="https://fb.com/turag.ahmed.9655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="turag.ahmed.18" height="30" width="40" /></a>
 
 <a href="https://instagram.com/turag_ahamed_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deep_feel_2022" height="30" width="40" /></a>
 
