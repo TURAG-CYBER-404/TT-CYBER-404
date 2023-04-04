@@ -48,11 +48,11 @@ Skills: PYTHON & HTML & JAVA
 
 <h2>MY SOCIAL MEDIA<h2/>
 
-<a href="https://fb.com/turag.ahmed.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="turag.ahmed.18" height="30" width="40" /></a>
+<a href="https://fb.com/"turag.ahmed.9655 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="turag.ahmed.18" height="30" width="40" /></a>
 
-<a href="https://instagram.com/deep_feel_2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deep_feel_2022" height="30" width="40" /></a>
+<a href="https://instagram.com/turag_ahamed_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deep_feel_2022" height="30" width="40" /></a>
 
-<a href="https://www.youtube.com/c/turagcyber404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="turagcyber404" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="turagcyber404" height="30" width="40" /></a>
 
 </p>
 
